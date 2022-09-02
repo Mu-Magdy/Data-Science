@@ -1,1 +1,1 @@
-These projects are projects for beginners to tackle different algorithms and and different datasets 
+These projects are projects for beginners to tackle different algorithms and different datasets 
