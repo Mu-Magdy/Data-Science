@@ -37,7 +37,7 @@ pip install numpy pandas Pillow matplotlib tensorflow
 ```bash
 git clone https://github.com/Mu-Magdy/Data-Science.git/
 
-cd image-enhancement-task
+cd Blnk Task
 ```
 
 -  Open the Jupyter Notebook:
